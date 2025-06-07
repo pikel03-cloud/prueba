@@ -7104,5 +7104,11 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sponge": {
+    "criteria": {
+      "has_sponge": "2025-06-07 17:14:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
