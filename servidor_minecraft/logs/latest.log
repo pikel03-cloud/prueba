@@ -2230,3 +2230,25 @@ BCLib - The End  BiomeSource (46acebf0)
 [17:13:20] [Server thread/INFO]: [Pikel_03: Set the weather to clear]
 [17:14:32] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
 [17:18:18] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[17:20:16] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
+[17:20:16] [Server thread/INFO]: Pikel_03 left the game
+[17:20:16] [Server thread/INFO]: Removing session data for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[17:21:38] [Server thread/INFO]: Pikel_03[/127.189.11.85:52263] logged in with entity id 5122 at (41.36101238613904, 179.0, 335.6588444016873)
+[17:21:38] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[17:21:38] [Server thread/INFO]: Loading config from file...
+[17:21:38] [Server thread/INFO]: Pikel_03 joined the game
+[17:21:38] [Server thread/INFO]: Player Pikel_03 just logged in with id afc4c9dd-8d66-358b-8b8b-98baedbba298
+[17:21:38] [ForkJoinPool-5-worker-3/INFO]: Loading local skin for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[17:21:38] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[17:21:38] [ForkJoinPool-5-worker-3/INFO]: File https://playerdb.co/api/player/minecraft/Pikel_03 downloaded
+[17:21:38] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[17:21:38] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[17:21:38] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[17:21:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[17:21:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[17:21:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[17:21:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[17:21:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[17:21:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[17:21:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[17:21:38] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/prueba/servidor_minecraft/bclib-sync (allowDelete=true)
