@@ -7451,6 +7451,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-06-08 19:19:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/cyan_sleeping_bag": {
+    "criteria": {
+      "has_cyan_wool": "2025-06-08 19:13:47 +0000"
+    },
+    "done": true
+  },
   "stellarity:end_city/jeb_": {
     "criteria": {
       "craft12": "2025-06-08 19:09:51 +0000"
@@ -7460,6 +7472,18 @@
   "stellarity:story/journeys_end": {
     "criteria": {
       "activate_portal": "2025-06-08 19:10:05 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/trinkets/soaring_insignia": {
+    "criteria": {
+      "requirement": "2025-06-08 19:18:24 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/sariel": {
+    "criteria": {
+      "requirement2": "2025-06-08 19:15:37 +0000"
     },
     "done": true
   },
@@ -7475,15 +7499,57 @@
     },
     "done": true
   },
+  "stellarity:cursed_tome/prismatic_pearl": {
+    "criteria": {
+      "requirement": "2025-06-08 19:18:24 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/stella": {
+    "criteria": {
+      "requirement": "2025-06-08 19:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-06-08 19:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-06-08 19:13:47 +0000"
+    },
+    "done": true
+  },
   "stellarity:recipes/slime_ball_from_ender_eye": {
     "criteria": {
       "has_item": "2025-06-08 19:09:25 +0000"
     },
     "done": true
   },
+  "stellarity:eol/summon_empress": {
+    "criteria": {
+      "requirement": "2025-06-08 19:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-06-08 19:13:47 +0000"
+    },
+    "done": true
+  },
   "stellarity:story/cloud_save": {
     "criteria": {
       "requirement": "2025-06-08 18:50:22 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_prismatic_pearl": {
+    "criteria": {
+      "requirement": "2025-06-08 19:18:24 +0000"
     },
     "done": true
   },

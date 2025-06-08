@@ -2701,3 +2701,115 @@ BCLib - The End  BiomeSource (151b0fc8)
 [19:16:49] [Server thread/INFO]: [DinokoMC: Set own game mode to Survival Mode]
 [19:16:51] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
 [19:17:03] [Server thread/INFO]: [DinokoMC: Set own game mode to Survival Mode]
+[19:17:05] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
+[19:17:23] [Server thread/INFO]: [DinokoMC: Set own game mode to Survival Mode]
+[19:17:50] [Server thread/INFO]: [Pikel_03: Applied effect Strength to 2 targets]
+[19:17:54] [Server thread/INFO]: [Pikel_03: Applied effect Strength to 2 targets]
+[19:18:23] [Server thread/INFO]: Named entity class_1632['Empress of Light'/201557, l='ServerLevel[world]', x=1077.90, y=65.78, z=1652.21] died: Empress of Light was killed whilst fighting Pikel_03
+[19:18:54] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[19:19:01] [Server thread/INFO]: DinokoMC has reached the goal [Eye of Darkness]
+[19:19:03] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[19:19:10] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[19:19:41] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[19:20:20] [Server thread/INFO]: DinokoMC has completed the challenge [Beam Me Up]
+[19:21:18] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[19:21:24] [Server thread/INFO]: DinokoMC lost connection: Disconnected
+[19:21:24] [Server thread/INFO]: DinokoMC left the game
+[19:21:27] [Server thread/INFO]: DinokoMC[/127.67.254.107:57507] logged in with entity id 540430 at (1079.5234773276436, 18.047117211142783, 1628.1332303503716)
+[19:21:28] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[19:21:28] [Server thread/INFO]: Loading config from file...
+[19:21:28] [Server thread/INFO]: DinokoMC joined the game
+[19:21:28] [Server thread/INFO]: Player DinokoMC just logged in with id f0c00d82-0d58-3b89-af0b-9c6838e550a1
+[19:21:28] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[19:21:28] [ForkJoinPool-5-worker-4/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[19:21:28] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[19:21:28] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[19:21:28] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[19:21:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[19:21:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[19:21:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[19:21:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[19:21:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[19:21:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[19:21:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[19:21:28] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/prueba/servidor_minecraft/bclib-sync (allowDelete=true)
+[19:21:28] [ForkJoinPool-5-worker-4/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[19:21:28] [ForkJoinPool-5-worker-4/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[19:21:30] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
+[19:21:33] [Server thread/INFO]: DinokoMC fell out of the world
+[19:21:35] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[19:21:46] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[19:22:18] [Server thread/INFO]: DinokoMC has made the advancement [A Throwaway Joke]
+[19:23:33] [Server thread/INFO]: Pikel_03 was killed
+[19:23:33] [Server thread/INFO]: DinokoMC was killed
+[19:23:33] [Server thread/INFO]: [DinokoMC: Killed 2 entities]
+[19:23:35] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[19:23:35] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[19:23:39] [Server thread/INFO]: Pikel_03 was killed
+[19:23:39] [Server thread/INFO]: Villager class_1646['Unemployed'/641218, l='ServerLevel[world]', x=-1228.50, y=63.00, z=2199.50] died, message: 'Unemployed was killed'
+[19:23:39] [Server thread/INFO]: DinokoMC was killed
+[19:23:39] [Server thread/INFO]: Villager class_1646['Nitwit'/641275, l='ServerLevel[world]', x=-1037.51, y=121.00, z=2183.74] died, message: 'Nitwit was killed'
+[19:23:39] [Server thread/INFO]: Villager class_1646['Butcher'/641276, l='ServerLevel[world]', x=-1028.50, y=123.00, z=2163.50] died, message: 'Butcher was killed'
+[19:23:40] [Server thread/INFO]: [Pikel_03: Killed 539 entities]
+[19:23:41] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[19:23:41] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[19:23:42] [Server thread/INFO]: DinokoMC was killed
+[19:23:42] [Server thread/INFO]: Pikel_03 was killed
+[19:23:42] [Server thread/INFO]: [DinokoMC: Killed 2 entities]
+[19:23:43] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[19:23:44] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[19:23:44] [Server thread/INFO]: Pikel_03 was killed
+[19:23:44] [Server thread/INFO]: DinokoMC was killed
+[19:23:44] [Server thread/INFO]: [Pikel_03: Killed 626 entities]
+[19:23:46] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[19:23:46] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[19:23:47] [Server thread/INFO]: Pikel_03 was killed
+[19:23:47] [Server thread/INFO]: DinokoMC was killed
+[19:23:47] [Server thread/INFO]: [Pikel_03: Killed 299 entities]
+[19:23:48] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[19:23:49] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[19:23:50] [Server thread/INFO]: Pikel_03 was killed
+[19:23:50] [Server thread/INFO]: DinokoMC was killed
+[19:23:50] [Server thread/INFO]: [DinokoMC: Killed 2 entities]
+[19:23:52] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[19:23:53] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[19:23:54] [Server thread/INFO]: Pikel_03 was killed
+[19:23:54] [Server thread/INFO]: DinokoMC was killed
+[19:23:54] [Server thread/INFO]: [DinokoMC: Killed 2 entities]
+[19:23:56] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[19:23:56] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[19:23:57] [Server thread/INFO]: DinokoMC was killed
+[19:23:57] [Server thread/INFO]: Pikel_03 was killed
+[19:23:57] [Server thread/INFO]: [DinokoMC: Killed 2 entities]
+[19:23:58] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[19:23:58] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[19:23:59] [Server thread/INFO]: Pikel_03 was killed
+[19:23:59] [Server thread/INFO]: DinokoMC was killed
+[19:23:59] [Server thread/INFO]: [Pikel_03: Killed 372 entities]
+[19:23:59] [Server thread/INFO]: [DinokoMC: Killed 2 entities]
+[19:24:01] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[19:24:01] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[19:24:02] [Server thread/INFO]: DinokoMC was killed
+[19:24:02] [Server thread/INFO]: Pikel_03 was killed
+[19:24:02] [Server thread/INFO]: [DinokoMC: Killed 2 entities]
+[19:24:04] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[19:24:04] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[19:24:04] [Server thread/INFO]: DinokoMC was killed
+[19:24:04] [Server thread/INFO]: Pikel_03 was killed
+[19:24:04] [Server thread/INFO]: [DinokoMC: Killed 2 entities]
+[19:24:07] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[19:24:07] [Server thread/INFO]: DinokoMC was killed
+[19:24:07] [Server thread/INFO]: [DinokoMC: Killed 2 entities]
+[19:24:09] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[19:24:11] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[19:24:21] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[19:24:33] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[19:24:40] [Server thread/INFO]: [Pikel_03: Banned DinokoMC: Banned by an operator.]
+[19:24:40] [Server thread/INFO]: DinokoMC lost connection: You are banned from this server
+[19:24:40] [Server thread/INFO]: DinokoMC left the game
+[19:24:43] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6ea70d7d[id=f0c00d82-0d58-3b89-af0b-9c6838e550a1,name=DinokoMC,properties={},legacy=false] (/127.67.254.107:53687): You are banned from this server.
+Reason: Banned by an operator.
+[19:24:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@6ea70d7d[id=f0c00d82-0d58-3b89-af0b-9c6838e550a1,name=DinokoMC,properties={},legacy=false] (/127.67.254.107:53687) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[19:24:44] [Server thread/WARN]: handleDisconnection() called twice
+[19:25:00] [Server thread/INFO]: [Pikel_03: Unbanned DinokoMC]

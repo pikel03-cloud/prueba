@@ -6211,21 +6211,9 @@
     },
     "done": true
   },
-  "stellarity:exploration/enter_hallow": {
+  "stellarity:events/first_time_in_end": {
     "criteria": {
-      "requirement": "2025-06-08 19:11:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_carpet": {
-    "criteria": {
-      "has_red_wool": "2025-06-08 19:11:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2025-06-08 19:11:55 +0000"
+      "requirement": "2025-06-08 19:10:18 +0000"
     },
     "done": true
   },
@@ -6241,9 +6229,27 @@
     },
     "done": false
   },
+  "stellarity:exploration/enter_hallow": {
+    "criteria": {
+      "requirement": "2025-06-08 19:11:16 +0000"
+    },
+    "done": true
+  },
   "stellarity:exploration/enter_end_village": {
     "criteria": {
       "find_a_town_in_a_complete_shithole": "2025-06-08 19:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-06-08 19:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-06-08 19:11:55 +0000"
     },
     "done": true
   },
@@ -6253,15 +6259,69 @@
     },
     "done": true
   },
-  "stellarity:events/first_time_in_end": {
-    "criteria": {
-      "requirement": "2025-06-08 19:10:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2025-06-08 19:11:55 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/strengthened_by_fire": {
+    "criteria": {
+      "criteria": "2025-06-08 19:14:08 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/slime_ball_from_ender_eye": {
+    "criteria": {
+      "has_item": "2025-06-08 19:14:08 +0000"
+    },
+    "done": true
+  },
+  "stellarity:eol/summon_empress": {
+    "criteria": {
+      "requirement": "2025-06-08 19:16:04 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/trinkets/soaring_insignia": {
+    "criteria": {
+      "requirement": "2025-06-08 19:18:58 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/stella": {
+    "criteria": {
+      "requirement": "2025-06-08 19:19:00 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/prismatic_pearl": {
+    "criteria": {
+      "requirement": "2025-06-08 19:19:01 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/obtain_an_ender_pearl": {
+    "criteria": {
+      "criteria": "2025-06-08 19:19:01 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_prismatic_pearl": {
+    "criteria": {
+      "requirement": "2025-06-08 19:19:01 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/beam_me_up": {
+    "criteria": {
+      "criteria": "2025-06-08 19:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-06-08 19:22:18 +0000"
     },
     "done": true
   },
