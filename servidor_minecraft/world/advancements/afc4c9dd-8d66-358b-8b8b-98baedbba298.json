@@ -7368,7 +7368,8 @@
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "shattered": "2025-06-08 05:18:32 +0000",
-      "sludge": "2025-06-08 05:17:14 +0000"
+      "sludge": "2025-06-08 05:17:14 +0000",
+      "warden": "2025-06-08 05:36:52 +0000"
     },
     "done": false
   },
@@ -7435,6 +7436,24 @@
   "stellarity:events/on_death": {
     "criteria": {
       "requirement": "2025-06-08 05:30:13 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-06-08 05:36:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-06-08 05:37:43 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/cloud_save": {
+    "criteria": {
+      "requirement": "2025-06-08 18:50:22 +0000"
     },
     "done": true
   },
