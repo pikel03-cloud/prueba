@@ -48,6 +48,8 @@
       "minecraft:flower_forest": "2025-05-31 00:39:33 +0000",
       "minecraft:frozen_peaks": "2025-06-08 18:49:45 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-07 02:33:48 +0000",
+      "minecraft:deep_dark": "2025-06-08 18:52:53 +0000",
+      "minecraft:meadow": "2025-06-08 19:03:43 +0000",
       "minecraft:windswept_gravelly_hills": "2025-06-03 03:15:00 +0000",
       "minecraft:savanna": "2025-06-07 02:45:50 +0000",
       "minecraft:plains": "2025-05-29 01:08:30 +0000"
@@ -6041,23 +6043,11 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/transportation/echo_boat": {
-    "criteria": {
-      "in_water": "2025-06-08 18:51:44 +0000"
-    },
-    "done": true
-  },
   "stellarity:end_city/jeb_": {
     "criteria": {
       "craft12": "2025-06-08 18:49:37 +0000"
     },
     "done": false
-  },
-  "deeperdarker:recipes/transportation/bloom_boat": {
-    "criteria": {
-      "in_water": "2025-06-08 18:51:44 +0000"
-    },
-    "done": true
   },
   "stellarity:cursed_tome/root": {
     "criteria": {
@@ -6095,15 +6085,183 @@
     },
     "done": true
   },
+  "stellarity:cursed_tome/sabrewing": {
+    "criteria": {
+      "requirement": "2025-06-08 18:49:37 +0000"
+    },
+    "done": true
+  },
   "stellarity:events/on_death": {
     "criteria": {
       "requirement": "2025-06-08 18:50:05 +0000"
     },
     "done": true
   },
-  "stellarity:cursed_tome/sabrewing": {
+  "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
-      "requirement": "2025-06-08 18:49:37 +0000"
+      "in_water": "2025-06-08 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_boat": {
+    "criteria": {
+      "in_water": "2025-06-08 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-06-08 18:52:53 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-06-08 18:52:55 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-06-08 18:54:35 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_heart_of_the_deep": "2025-06-08 18:54:35 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "shattered": "2025-06-08 18:57:38 +0000",
+      "phantom": "2025-06-08 18:57:42 +0000",
+      "sludge": "2025-06-08 18:56:15 +0000",
+      "stalker": "2025-06-08 19:01:00 +0000",
+      "shriek_worm": "2025-06-08 18:59:41 +0000",
+      "sculk_centipede": "2025-06-08 18:57:43 +0000",
+      "sculk_leech": "2025-06-08 18:59:28 +0000",
+      "warden": "2025-06-08 18:54:35 +0000",
+      "angler_fish": "2025-06-08 18:59:19 +0000",
+      "sculk_snapper": "2025-06-08 18:58:38 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/enter_otherside": {
+    "criteria": {
+      "otherside": "2025-06-08 18:55:16 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "overcast_columns": "2025-06-08 18:57:04 +0000",
+      "deeplands": "2025-06-08 18:57:09 +0000",
+      "blooming_caverns": "2025-06-08 18:55:41 +0000",
+      "echoing_forest": "2025-06-08 18:55:16 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/resonarium_plate": {
+    "criteria": {
+      "has_resonarium": "2025-06-08 18:56:18 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_temple": {
+    "criteria": {
+      "ancient_temple": "2025-06-08 18:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-06-08 18:57:17 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/night_sky_stalkers": {
+    "criteria": {
+      "sleep_deprivation": "2025-06-08 18:57:42 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/obtain_sculk_transmitter": {
+    "criteria": {
+      "sculk_transmitter": "2025-06-08 18:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-06-08 18:58:38 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/soundproof_glass": {
+    "criteria": {
+      "has_soul_crystal": "2025-06-08 19:01:02 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/journeys_end": {
+    "criteria": {
+      "activate_portal": "2025-06-08 19:10:05 +0000"
+    },
+    "done": true
+  },
+  "stellarity:exploration/enter_hallow": {
+    "criteria": {
+      "requirement": "2025-06-08 19:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-06-08 19:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-06-08 19:11:55 +0000"
+    },
+    "done": true
+  },
+  "stellarity:exploration/ender_adventurer": {
+    "criteria": {
+      "void": "2025-06-08 19:11:26 +0000",
+      "end_midlands": "2025-06-08 19:10:46 +0000",
+      "small_end_islands": "2025-06-08 19:10:36 +0000",
+      "the_hallow": "2025-06-08 19:11:16 +0000",
+      "end_highlands": "2025-06-08 19:10:47 +0000",
+      "the_nest": "2025-06-08 19:11:59 +0000",
+      "end_barrens": "2025-06-08 19:10:44 +0000"
+    },
+    "done": false
+  },
+  "stellarity:exploration/enter_end_village": {
+    "criteria": {
+      "find_a_town_in_a_complete_shithole": "2025-06-08 19:11:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/red_sleeping_bag": {
+    "criteria": {
+      "has_red_wool": "2025-06-08 19:11:55 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/first_time_in_end": {
+    "criteria": {
+      "requirement": "2025-06-08 19:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-06-08 19:11:55 +0000"
     },
     "done": true
   },

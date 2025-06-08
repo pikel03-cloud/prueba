@@ -7451,9 +7451,57 @@
     },
     "done": true
   },
+  "stellarity:end_city/jeb_": {
+    "criteria": {
+      "craft12": "2025-06-08 19:09:51 +0000"
+    },
+    "done": false
+  },
+  "stellarity:story/journeys_end": {
+    "criteria": {
+      "activate_portal": "2025-06-08 19:10:05 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/strengthened_by_fire": {
+    "criteria": {
+      "criteria": "2025-06-08 19:09:25 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/colorful_arsenal": {
+    "criteria": {
+      "color_shulker_box": "2025-06-08 19:09:51 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/slime_ball_from_ender_eye": {
+    "criteria": {
+      "has_item": "2025-06-08 19:09:25 +0000"
+    },
+    "done": true
+  },
   "stellarity:story/cloud_save": {
     "criteria": {
       "requirement": "2025-06-08 18:50:22 +0000"
+    },
+    "done": true
+  },
+  "stellarity:exploration/enter_end_village": {
+    "criteria": {
+      "find_a_town_in_a_complete_shithole": "2025-06-08 19:11:14 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/soundproof_glass": {
+    "criteria": {
+      "has_soul_crystal": "2025-06-08 19:01:11 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/obtain_sonorous_staff": {
+    "criteria": {
+      "sonorous_staff": "2025-06-08 19:01:35 +0000"
     },
     "done": true
   },

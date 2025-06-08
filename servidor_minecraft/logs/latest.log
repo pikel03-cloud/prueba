@@ -2477,3 +2477,227 @@ BCLib - The End  BiomeSource (151b0fc8)
 [18:56:00] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
 [18:56:05] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
 [18:56:10] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
+[18:56:52] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[18:56:59] [Server thread/INFO]: [DinokoMC: Set own game mode to Spectator Mode]
+[18:57:05] [Server thread/INFO]: Locating element deeperdarker:ancient_temple took 0 ms
+[18:57:08] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -11871.500000, 60.000000, 12816.500000]
+[18:57:08] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[18:57:08] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:57:09] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[18:57:09] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:57:09] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[18:57:09] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:57:09] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[18:57:09] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:57:09] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[18:57:09] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:57:09] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[18:57:09] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:57:09] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[18:57:09] [Server thread/INFO]: DinokoMC has reached the goal [Abyssal Descent]
+[18:57:09] [Server thread/INFO]: DinokoMC has completed the challenge [Echolocation]
+[18:57:15] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
+[18:57:17] [Server thread/INFO]: DinokoMC has made the advancement [Sneak 100]
+[18:57:42] [Server thread/INFO]: DinokoMC has made the advancement [Night Sky Stalkers]
+[18:58:26] [Server thread/INFO]: DinokoMC has made the advancement [Remote Storage]
+[18:58:38] [Server thread/INFO]: DinokoMC has completed the challenge [It Spreads]
+[18:59:11] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[18:59:58] [Server thread/INFO]: [DinokoMC: Set own game mode to Spectator Mode]
+[18:59:59] [Server thread/INFO]: [DinokoMC: Set own game mode to Survival Mode]
+[19:00:16] [Server thread/INFO]: [Pikel_03: Removed every effect from DinokoMC]
+[19:00:42] [Server thread/INFO]: [DinokoMC: Set own game mode to Spectator Mode]
+[19:00:45] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
+[19:00:59] [Server thread/INFO]: [Pikel_03: Applied effect Strength to 2 targets]
+[19:01:00] [Server thread/INFO]: DinokoMC has completed the challenge [Sculk Slayer]
+[19:01:05] [Server thread/INFO]: [Pikel_03: Applied effect Resistance to 2 targets]
+[19:01:27] [Server thread/INFO]: [DinokoMC: Applied effect Night Vision to DinokoMC]
+[19:01:33] [Server thread/INFO]: [DinokoMC: Applied effect Night Vision to DinokoMC]
+[19:01:35] [Server thread/INFO]: Pikel_03 has made the advancement [Noise Complaint]
+[19:01:49] [Server thread/INFO]: [DinokoMC: Set own game mode to Survival Mode]
+[19:01:49] [Server thread/INFO]: [Pikel_03: Removed every effect from DinokoMC]
+[19:02:00] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
+[19:02:21] [Server thread/INFO]: [Not Secure] <Pikel_03> rei
+[19:03:08] [Server thread/INFO]: [DinokoMC: Applied effect Night Vision to DinokoMC]
+[19:03:29] [Server thread/INFO]: Pikel_03 was killed
+[19:03:29] [Server thread/INFO]: [Pikel_03: Killed Pikel_03]
+[19:03:30] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[19:03:42] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[19:03:56] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[19:04:10] [Server thread/INFO]: [Pikel_03: Applied effect Resistance to Pikel_03]
+[19:04:15] [Server thread/INFO]: [Pikel_03: Applied effect Strength to Pikel_03]
+[19:04:30] [Server thread/INFO]: DinokoMC lost connection: Disconnected
+[19:04:30] [Server thread/INFO]: DinokoMC left the game
+[19:07:30] [Server thread/INFO]: DinokoMC[/127.67.254.107:53203] logged in with entity id 10251 at (-1177.278186947162, 126.75105953079364, 2289.678760213167)
+[19:07:30] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[19:07:30] [Server thread/INFO]: Loading config from file...
+[19:07:30] [Server thread/INFO]: DinokoMC joined the game
+[19:07:30] [Server thread/INFO]: Player DinokoMC just logged in with id f0c00d82-0d58-3b89-af0b-9c6838e550a1
+[19:07:30] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[19:07:30] [ForkJoinPool-5-worker-3/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[19:07:30] [ForkJoinPool-5-worker-3/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[19:07:30] [ForkJoinPool-5-worker-3/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[19:07:36] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[19:07:36] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[19:07:36] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[19:07:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[19:07:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[19:07:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[19:07:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[19:07:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[19:07:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[19:07:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[19:07:36] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/prueba/servidor_minecraft/bclib-sync (allowDelete=true)
+[19:07:46] [Server thread/INFO]: Locating element minecraft:stronghold took 43 ms
+[19:07:49] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -63.500000, 64.000000, 2656.500000]
+[19:07:54] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[19:07:55] [Worker-Main-3/WARN]: Skipping Entity with id 
+[19:07:55] [Worker-Main-3/WARN]: Skipping Entity with id 
+[19:08:35] [Server thread/INFO]: [Pikel_03: Set own game mode to Spectator Mode]
+[19:08:36] [Server thread/INFO]: [DinokoMC: Set own game mode to Spectator Mode]
+[19:09:02] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
+[19:09:07] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[19:09:17] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[19:09:20] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[19:09:25] [Server thread/INFO]: Pikel_03 has reached the goal [Strengthened by Fire]
+[19:09:46] [Server thread/INFO]: DinokoMC was killed
+[19:09:46] [Server thread/INFO]: Created new backpack backup file for DinokoMC with unique ID travelersbackpack.spider_08.06.2025-19.09.46.dat
+[19:09:46] [Server thread/INFO]: [Pikel_03: Killed DinokoMC]
+[19:09:50] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[19:09:51] [Server thread/INFO]: Pikel_03 has made the advancement [Colorful Arsenal]
+[19:09:52] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[19:10:05] [Server thread/INFO]: Pikel_03 has reached the goal [Journey's End]
+[19:10:05] [Server thread/INFO]: DinokoMC has reached the goal [Journey's End]
+[19:10:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2642ms or 52 ticks behind
+[19:10:18] [Server thread/WARN]: Pikel_03 moved too quickly! 164.23985927662332,30.51102912385573,-2698.170219195075
+[19:10:33] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 1819.500000, 183.500000, 1510.500000]
+[19:10:36] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[19:11:14] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 817.500000, 159.500000, 1746.500000]
+[19:11:14] [Server thread/INFO]: Pikel_03 has made the advancement [Forever Stranded]
+[19:11:16] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[19:11:16] [Server thread/INFO]: DinokoMC has made the advancement [Forever Stranded]
+[19:11:16] [Server thread/INFO]: DinokoMC has reached the goal [Hallowed Be Thy Name]
+[19:11:23] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=627, y=83, z=1966} but found not block entity block Block{minecraft:air} at location
+[19:11:23] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=627, y=83, z=1966}
+[19:11:23] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=628, y=83, z=1966} but found not block entity block Block{minecraft:air} at location
+[19:11:23] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=628, y=83, z=1966}
+[19:11:49] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[19:12:15] [Server thread/WARN]: DinokoMC moved too quickly! 4.600027470578311,0.0,-9.72182966968785
+[19:12:20] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[19:13:21] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[19:13:39] [Server thread/INFO]: [DinokoMC: Set own game mode to Survival Mode]
+[19:13:51] [Server thread/INFO]: Named entity class_1642['La pure de joako'/11, l='ServerLevel[world]', x=79.40, y=64.00, z=51.31] died: La pure de joako was killed
+[19:13:51] [Server thread/INFO]: Villager class_1646['Toolsmith'/12, l='ServerLevel[world]', x=78.74, y=64.00, z=54.62] died, message: 'Toolsmith was killed'
+[19:13:51] [Server thread/INFO]: Named entity class_1642['La pure de joako'/16, l='ServerLevel[world]', x=79.59, y=64.00, z=77.69] died: La pure de joako was killed
+[19:13:51] [Server thread/INFO]: Villager class_1646['Toolsmith'/17, l='ServerLevel[world]', x=79.25, y=64.00, z=74.41] died, message: 'Toolsmith was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Toolsmith'/18, l='ServerLevel[world]', x=80.17, y=64.00, z=74.52] died, message: 'Toolsmith was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Toolsmith'/19, l='ServerLevel[world]', x=79.14, y=64.56, z=75.20] died, message: 'Toolsmith was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Toolsmith'/31, l='ServerLevel[world]', x=78.98, y=64.00, z=54.49] died, message: 'Toolsmith was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Toolsmith'/32, l='ServerLevel[world]', x=78.57, y=64.36, z=54.36] died, message: 'Toolsmith was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Toolsmith'/54, l='ServerLevel[world]', x=98.53, y=64.56, z=53.86] died, message: 'Toolsmith was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Toolsmith'/55, l='ServerLevel[world]', x=100.59, y=64.00, z=54.49] died, message: 'Toolsmith was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Toolsmith'/56, l='ServerLevel[world]', x=100.50, y=64.56, z=52.79] died, message: 'Toolsmith was killed'
+[19:13:51] [Server thread/INFO]: Named entity class_1642['La pure de joako'/58, l='ServerLevel[world]', x=99.49, y=64.00, z=51.31] died: La pure de joako was killed
+[19:13:51] [Server thread/INFO]: Villager class_1646['Toolsmith'/60, l='ServerLevel[world]', x=99.44, y=64.56, z=75.38] died, message: 'Toolsmith was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Toolsmith'/61, l='ServerLevel[world]', x=100.36, y=64.56, z=75.00] died, message: 'Toolsmith was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Toolsmith'/62, l='ServerLevel[world]', x=98.34, y=64.00, z=74.30] died, message: 'Toolsmith was killed'
+[19:13:51] [Server thread/INFO]: Named entity class_1642['La pure de joako'/64, l='ServerLevel[world]', x=99.54, y=64.00, z=77.77] died: La pure de joako was killed
+[19:13:51] [Server thread/INFO]: Villager class_1646['Fisherman'/163, l='ServerLevel[world]', x=77.50, y=64.00, z=187.30] died, message: 'Fisherman was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Fisherman'/164, l='ServerLevel[world]', x=79.50, y=64.00, z=187.30] died, message: 'Fisherman was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Toolsmith'/165, l='ServerLevel[world]', x=78.50, y=67.00, z=188.30] died, message: 'Toolsmith was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Fisherman'/166, l='ServerLevel[world]', x=77.50, y=64.00, z=179.70] died, message: 'Fisherman was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Fisherman'/167, l='ServerLevel[world]', x=79.50, y=64.00, z=179.70] died, message: 'Fisherman was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Librarian'/168, l='ServerLevel[world]', x=78.50, y=67.00, z=178.70] died, message: 'Librarian was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Unemployed'/169, l='ServerLevel[world]', x=61.30, y=68.50, z=169.30] died, message: 'Unemployed was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Unemployed'/170, l='ServerLevel[world]', x=61.70, y=68.50, z=169.70] died, message: 'Unemployed was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Unemployed'/171, l='ServerLevel[world]', x=61.30, y=64.00, z=169.30] died, message: 'Unemployed was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Unemployed'/172, l='ServerLevel[world]', x=61.30, y=64.00, z=169.30] died, message: 'Unemployed was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Unemployed'/173, l='ServerLevel[world]', x=61.30, y=64.00, z=169.30] died, message: 'Unemployed was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Unemployed'/174, l='ServerLevel[world]', x=61.30, y=64.00, z=169.30] died, message: 'Unemployed was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Fisherman'/175, l='ServerLevel[world]', x=81.50, y=64.00, z=187.30] died, message: 'Fisherman was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Fisherman'/176, l='ServerLevel[world]', x=83.50, y=64.00, z=187.30] died, message: 'Fisherman was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Fisherman'/177, l='ServerLevel[world]', x=85.50, y=64.00, z=187.30] died, message: 'Fisherman was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Fisherman'/178, l='ServerLevel[world]', x=87.50, y=64.00, z=187.30] died, message: 'Fisherman was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Fisherman'/179, l='ServerLevel[world]', x=91.50, y=64.00, z=187.30] died, message: 'Fisherman was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Fisherman'/180, l='ServerLevel[world]', x=89.50, y=64.00, z=187.30] died, message: 'Fisherman was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Fisherman'/181, l='ServerLevel[world]', x=93.50, y=64.00, z=187.30] died, message: 'Fisherman was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Toolsmith'/182, l='ServerLevel[world]', x=80.50, y=67.00, z=188.30] died, message: 'Toolsmith was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Armorer'/183, l='ServerLevel[world]', x=82.50, y=67.00, z=188.30] died, message: 'Armorer was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Armorer'/184, l='ServerLevel[world]', x=84.50, y=67.00, z=188.30] died, message: 'Armorer was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Weaponsmith'/185, l='ServerLevel[world]', x=86.50, y=67.00, z=188.30] died, message: 'Weaponsmith was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Weaponsmith'/186, l='ServerLevel[world]', x=88.50, y=67.00, z=188.30] died, message: 'Weaponsmith was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Fletcher'/187, l='ServerLevel[world]', x=90.50, y=67.00, z=188.30] died, message: 'Fletcher was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Unemployed'/188, l='ServerLevel[world]', x=92.50, y=67.00, z=188.30] died, message: 'Unemployed was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Fisherman'/189, l='ServerLevel[world]', x=81.50, y=64.00, z=179.70] died, message: 'Fisherman was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Fisherman'/190, l='ServerLevel[world]', x=83.50, y=64.00, z=179.70] died, message: 'Fisherman was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Fisherman'/191, l='ServerLevel[world]', x=85.50, y=64.00, z=179.70] died, message: 'Fisherman was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Fisherman'/192, l='ServerLevel[world]', x=89.50, y=64.00, z=179.70] died, message: 'Fisherman was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Fisherman'/193, l='ServerLevel[world]', x=91.50, y=64.00, z=179.70] died, message: 'Fisherman was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Fisherman'/194, l='ServerLevel[world]', x=93.50, y=64.00, z=179.70] died, message: 'Fisherman was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Librarian'/195, l='ServerLevel[world]', x=80.50, y=67.00, z=178.70] died, message: 'Librarian was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Librarian'/196, l='ServerLevel[world]', x=82.50, y=67.00, z=178.70] died, message: 'Librarian was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Librarian'/197, l='ServerLevel[world]', x=84.50, y=67.00, z=178.70] died, message: 'Librarian was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Librarian'/198, l='ServerLevel[world]', x=86.50, y=67.00, z=178.70] died, message: 'Librarian was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Librarian'/199, l='ServerLevel[world]', x=88.50, y=67.00, z=178.70] died, message: 'Librarian was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Librarian'/200, l='ServerLevel[world]', x=90.50, y=67.00, z=178.70] died, message: 'Librarian was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Librarian'/201, l='ServerLevel[world]', x=92.50, y=67.00, z=178.70] died, message: 'Librarian was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Fisherman'/202, l='ServerLevel[world]', x=87.50, y=64.00, z=179.70] died, message: 'Fisherman was killed'
+[19:13:51] [Server thread/INFO]: Villager class_1646['Unemployed'/258, l='ServerLevel[world]', x=144.43, y=71.00, z=145.78] died, message: 'Unemployed was killed'
+[19:13:51] [Server thread/INFO]: DinokoMC was killed
+[19:13:51] [Server thread/INFO]: Pikel_03 was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132908, l='ServerLevel[world]', x=1160.17, y=138.26, z=1647.85] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132909, l='ServerLevel[world]', x=1031.95, y=35.12, z=1635.33] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132910, l='ServerLevel[world]', x=1031.69, y=35.21, z=1638.32] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132911, l='ServerLevel[world]', x=1019.55, y=70.34, z=1686.03] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132912, l='ServerLevel[world]', x=1105.77, y=83.70, z=1754.59] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132913, l='ServerLevel[world]', x=1110.62, y=83.57, z=1754.94] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132914, l='ServerLevel[world]', x=1112.55, y=83.66, z=1755.75] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132915, l='ServerLevel[world]', x=1015.41, y=48.07, z=1639.70] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132916, l='ServerLevel[world]', x=1129.74, y=61.04, z=1753.60] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132917, l='ServerLevel[world]', x=1132.48, y=60.95, z=1755.49] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132918, l='ServerLevel[world]', x=1165.39, y=71.98, z=1720.16] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132919, l='ServerLevel[world]', x=1048.54, y=80.38, z=1686.59] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132920, l='ServerLevel[world]', x=1043.36, y=80.50, z=1684.48] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132921, l='ServerLevel[world]', x=1010.37, y=58.51, z=1645.20] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132922, l='ServerLevel[world]', x=1035.61, y=36.86, z=1656.23] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132923, l='ServerLevel[world]', x=1044.09, y=36.82, z=1654.77] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132924, l='ServerLevel[world]', x=1098.48, y=63.35, z=1742.44] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132925, l='ServerLevel[world]', x=1139.47, y=106.67, z=1583.31] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132926, l='ServerLevel[world]', x=1112.87, y=66.22, z=1696.19] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132927, l='ServerLevel[world]', x=1189.44, y=61.38, z=1604.28] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132928, l='ServerLevel[world]', x=1179.31, y=42.44, z=1604.56] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132929, l='ServerLevel[world]', x=1148.25, y=108.66, z=1586.62] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132930, l='ServerLevel[world]', x=1181.30, y=41.66, z=1595.54] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132931, l='ServerLevel[world]', x=1158.38, y=83.04, z=1689.31] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132932, l='ServerLevel[world]', x=1155.30, y=82.91, z=1687.42] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132933, l='ServerLevel[world]', x=1179.58, y=117.76, z=1608.48] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132934, l='ServerLevel[world]', x=1202.66, y=58.09, z=1615.47] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132935, l='ServerLevel[world]', x=1148.61, y=37.84, z=1760.50] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132936, l='ServerLevel[world]', x=1095.19, y=82.51, z=1778.69] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132937, l='ServerLevel[world]', x=1126.53, y=90.85, z=1810.31] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132938, l='ServerLevel[world]', x=1142.48, y=85.65, z=1780.56] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132939, l='ServerLevel[world]', x=1055.86, y=72.57, z=1709.15] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132940, l='ServerLevel[world]', x=1098.86, y=63.29, z=1734.41] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132941, l='ServerLevel[world]', x=1014.45, y=35.47, z=1626.24] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: Named entity class_1634['Pixie'/132942, l='ServerLevel[world]', x=1021.00, y=90.53, z=1731.49] died: Pixie was killed
+[19:13:51] [Server thread/INFO]: [Pikel_03: Killed 251 entities]
+[19:13:53] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[19:13:53] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[19:13:55] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[19:13:57] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
+[19:14:07] [Server thread/INFO]: Locating element minecraft:stronghold took 0 ms
+[19:14:08] [Server thread/INFO]: DinokoMC has reached the goal [Strengthened by Fire]
+[19:14:10] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -63.500000, 123.000000, 2656.500000]
+[19:14:20] [Server thread/INFO]: [Pikel_03: Set own game mode to Spectator Mode]
+[19:14:25] [Server thread/WARN]: Pikel_03 moved too quickly! -1.417367201936628,-8.625000342726583,5.371432978680332
+[19:14:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[19:14:32] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[19:14:38] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 1111.500000, 65.500000, 1697.500000]
+[19:14:42] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[19:14:42] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[19:16:04] [Server thread/INFO]: DinokoMC has reached the goal [The Pristine Queen]
+[19:16:04] [Server thread/INFO]: Pikel_03 has reached the goal [The Pristine Queen]
+[19:16:29] [Server thread/INFO]: [Pikel_03: Applied effect Resistance to 2 targets]
+[19:16:32] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[19:16:49] [Server thread/INFO]: [DinokoMC: Set own game mode to Survival Mode]
+[19:16:51] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
+[19:17:03] [Server thread/INFO]: [DinokoMC: Set own game mode to Survival Mode]
