@@ -7451,39 +7451,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+  "stellarity:story/cloud_save": {
     "criteria": {
-      "has_lilac": "2025-06-08 19:19:48 +0000"
+      "requirement": "2025-06-08 18:50:22 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/decorations/cyan_sleeping_bag": {
+  "deeperdarker:recipes/misc/soundproof_glass": {
     "criteria": {
-      "has_cyan_wool": "2025-06-08 19:13:47 +0000"
+      "has_soul_crystal": "2025-06-08 19:01:11 +0000"
     },
     "done": true
   },
-  "stellarity:end_city/jeb_": {
+  "deeperdarker:main/obtain_sonorous_staff": {
     "criteria": {
-      "craft12": "2025-06-08 19:09:51 +0000"
-    },
-    "done": false
-  },
-  "stellarity:story/journeys_end": {
-    "criteria": {
-      "activate_portal": "2025-06-08 19:10:05 +0000"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/trinkets/soaring_insignia": {
-    "criteria": {
-      "requirement": "2025-06-08 19:18:24 +0000"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/sariel": {
-    "criteria": {
-      "requirement2": "2025-06-08 19:15:37 +0000"
+      "sonorous_staff": "2025-06-08 19:01:35 +0000"
     },
     "done": true
   },
@@ -7493,21 +7475,39 @@
     },
     "done": true
   },
+  "stellarity:recipes/slime_ball_from_ender_eye": {
+    "criteria": {
+      "has_item": "2025-06-08 19:09:25 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/jeb_": {
+    "criteria": {
+      "craft12": "2025-06-08 19:09:51 +0000"
+    },
+    "done": false
+  },
   "stellarity:end_city/colorful_arsenal": {
     "criteria": {
       "color_shulker_box": "2025-06-08 19:09:51 +0000"
     },
     "done": true
   },
-  "stellarity:cursed_tome/prismatic_pearl": {
+  "stellarity:story/journeys_end": {
     "criteria": {
-      "requirement": "2025-06-08 19:18:24 +0000"
+      "activate_portal": "2025-06-08 19:10:05 +0000"
     },
     "done": true
   },
-  "stellarity:cursed_tome/stella": {
+  "stellarity:exploration/enter_end_village": {
     "criteria": {
-      "requirement": "2025-06-08 19:18:24 +0000"
+      "find_a_town_in_a_complete_shithole": "2025-06-08 19:11:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/cyan_sleeping_bag": {
+    "criteria": {
+      "has_cyan_wool": "2025-06-08 19:13:47 +0000"
     },
     "done": true
   },
@@ -7523,9 +7523,15 @@
     },
     "done": true
   },
-  "stellarity:recipes/slime_ball_from_ender_eye": {
+  "minecraft:recipes/decorations/cyan_banner": {
     "criteria": {
-      "has_item": "2025-06-08 19:09:25 +0000"
+      "has_cyan_wool": "2025-06-08 19:13:47 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/sariel": {
+    "criteria": {
+      "requirement2": "2025-06-08 19:15:37 +0000"
     },
     "done": true
   },
@@ -7535,15 +7541,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cyan_banner": {
+  "stellarity:cursed_tome/trinkets/soaring_insignia": {
     "criteria": {
-      "has_cyan_wool": "2025-06-08 19:13:47 +0000"
+      "requirement": "2025-06-08 19:18:24 +0000"
     },
     "done": true
   },
-  "stellarity:story/cloud_save": {
+  "stellarity:cursed_tome/prismatic_pearl": {
     "criteria": {
-      "requirement": "2025-06-08 18:50:22 +0000"
+      "requirement": "2025-06-08 19:18:24 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/stella": {
+    "criteria": {
+      "requirement": "2025-06-08 19:18:24 +0000"
     },
     "done": true
   },
@@ -7553,21 +7565,27 @@
     },
     "done": true
   },
-  "stellarity:exploration/enter_end_village": {
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
-      "find_a_town_in_a_complete_shithole": "2025-06-08 19:11:14 +0000"
+      "has_lilac": "2025-06-08 19:19:48 +0000"
     },
     "done": true
   },
-  "deeperdarker:recipes/misc/soundproof_glass": {
+  "stellarity:dragons_den/cursed_tome/items/unlock_clockwork_crossbow": {
     "criteria": {
-      "has_soul_crystal": "2025-06-08 19:01:11 +0000"
+      "requirement2": "2025-06-10 00:44:14 +0000"
     },
     "done": true
   },
-  "deeperdarker:main/obtain_sonorous_staff": {
+  "deeperdarker:recipes/transportation/soul_elytra": {
     "criteria": {
-      "sonorous_staff": "2025-06-08 19:01:35 +0000"
+      "has_elytra": "2025-06-10 00:24:50 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/clockwork_crossbow": {
+    "criteria": {
+      "requirement2": "2025-06-10 00:44:14 +0000"
     },
     "done": true
   },
