@@ -7160,10 +7160,13 @@
   },
   "stellarity:exploration/ender_adventurer": {
     "criteria": {
+      "void": "2025-06-10 00:49:33 +0000",
       "end_midlands": "2025-06-08 05:08:16 +0000",
       "warped_marsh": "2025-06-07 17:53:26 +0000",
+      "frosted_hills": "2025-06-10 00:58:33 +0000",
       "small_end_islands": "2025-06-07 17:58:58 +0000",
       "the_hallow": "2025-06-07 17:57:10 +0000",
+      "ashfall_delta": "2025-06-10 00:46:42 +0000",
       "end_highlands": "2025-06-07 17:59:19 +0000",
       "the_nest": "2025-06-07 17:56:53 +0000",
       "end_barrens": "2025-06-07 17:59:16 +0000"
@@ -7571,9 +7574,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 01:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 01:03:39 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/frigid_harvester": {
+    "criteria": {
+      "requirement2": "2025-06-10 00:58:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 01:03:39 +0000"
+    },
+    "done": true
+  },
   "stellarity:dragons_den/cursed_tome/items/unlock_clockwork_crossbow": {
     "criteria": {
       "requirement2": "2025-06-10 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:nether/kill_wildfire": {
+    "criteria": {
+      "killed_wildfire": "2025-06-10 01:10:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 01:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 01:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 01:03:39 +0000"
     },
     "done": true
   },
@@ -7583,9 +7634,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 01:03:39 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/warden_armor": {
+    "criteria": {
+      "warden_armor": "2025-06-10 01:04:59 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/super_sonic": {
+    "criteria": {
+      "fly": "2025-06-10 00:48:29 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_frigid_harvester": {
+    "criteria": {
+      "requirement2": "2025-06-10 00:58:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 01:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 01:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 01:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 01:03:39 +0000"
+    },
+    "done": true
+  },
   "stellarity:cursed_tome/clockwork_crossbow": {
     "criteria": {
       "requirement2": "2025-06-10 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 01:03:39 +0000"
     },
     "done": true
   },

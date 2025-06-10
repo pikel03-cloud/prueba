@@ -2799,3 +2799,535 @@ BCLib - The End  BiomeSource (3ea15b60)
 [00:49:37] [Server thread/INFO]: [ziKoc: Set own game mode to Creative Mode]
 [00:50:25] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
 [00:50:25] [Server thread/INFO]: ziKoc has made the advancement [Forever Stranded]
+[00:50:30] [Server thread/INFO]: ziKoc lost connection: Disconnected
+[00:50:30] [Server thread/INFO]: ziKoc left the game
+[00:50:30] [Server thread/INFO]: Removing session data for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[00:50:34] [Server thread/INFO]: ziKoc[/127.59.215.201:59121] logged in with entity id 183722 at (807.1652851480355, 159.0, 1737.0887865606799)
+[00:50:34] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
+[00:50:34] [Server thread/INFO]: Loading config from file...
+[00:50:34] [Server thread/INFO]: ziKoc joined the game
+[00:50:34] [Server thread/INFO]: Player ziKoc just logged in with id 1aeaa7cc-6376-3256-be3e-ab68b32c3bc6
+[00:50:34] [ForkJoinPool-5-worker-5/INFO]: Loading local skin for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[00:50:34] [ForkJoinPool-5-worker-5/INFO]: Loading local cape for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[00:50:34] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[00:50:34] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:50:34] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:50:34] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:50:34] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:50:34] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:50:34] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:50:34] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:50:34] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:50:34] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:50:34] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:50:34] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/prueba/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:51:00] [Server thread/INFO]: [ziKoc: Set own game mode to Survival Mode]
+[00:51:15] [Server thread/INFO]: ziKoc was slain by Pikel_03
+[00:51:26] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[00:51:31] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[00:51:50] [Server thread/INFO]: [ziKoc: Set own game mode to Creative Mode]
+[00:52:22] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[00:52:31] [Server thread/INFO]: [Not Secure] <ziKoc> aphoteosis
+[00:52:42] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 1067.500000, 61.500000, 1655.500000]
+[00:52:52] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[00:53:03] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[00:53:36] [Server thread/INFO]: ziKoc lost connection: Disconnected
+[00:53:36] [Server thread/INFO]: ziKoc left the game
+[00:53:36] [Server thread/INFO]: Removing session data for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[00:53:51] [Server thread/INFO]: Pikel_03 was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313196, l='ServerLevel[world]', x=1117.40, y=56.87, z=1678.35] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313197, l='ServerLevel[world]', x=1124.31, y=61.47, z=1739.50] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313198, l='ServerLevel[world]', x=1130.55, y=61.58, z=1742.51] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313199, l='ServerLevel[world]', x=1130.42, y=61.23, z=1743.74] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313200, l='ServerLevel[world]', x=1131.67, y=61.54, z=1743.51] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313201, l='ServerLevel[world]', x=1095.58, y=25.76, z=1679.02] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313202, l='ServerLevel[world]', x=1092.69, y=83.57, z=1632.97] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313203, l='ServerLevel[world]', x=1112.05, y=105.30, z=1669.38] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313204, l='ServerLevel[world]', x=1113.47, y=105.21, z=1677.41] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313205, l='ServerLevel[world]', x=1114.43, y=105.31, z=1678.62] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313206, l='ServerLevel[world]', x=1124.53, y=25.27, z=1684.44] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313207, l='ServerLevel[world]', x=1117.51, y=119.60, z=1599.74] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313208, l='ServerLevel[world]', x=1070.31, y=36.46, z=1772.63] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313209, l='ServerLevel[world]', x=1114.41, y=51.78, z=1677.47] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313210, l='ServerLevel[world]', x=1118.69, y=52.29, z=1676.52] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313211, l='ServerLevel[world]', x=1063.50, y=63.14, z=1683.33] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313212, l='ServerLevel[world]', x=1062.46, y=59.57, z=1626.52] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313213, l='ServerLevel[world]', x=1066.64, y=59.60, z=1626.58] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313214, l='ServerLevel[world]', x=1024.25, y=54.35, z=1620.39] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313215, l='ServerLevel[world]', x=1110.66, y=52.74, z=1717.86] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313216, l='ServerLevel[world]', x=1037.72, y=64.32, z=1683.37] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313217, l='ServerLevel[world]', x=1035.71, y=64.32, z=1683.35] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313218, l='ServerLevel[world]', x=1033.76, y=64.53, z=1682.19] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313219, l='ServerLevel[world]', x=1037.78, y=64.30, z=1684.38] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313220, l='ServerLevel[world]', x=999.23, y=62.20, z=1677.33] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313221, l='ServerLevel[world]', x=1103.38, y=89.59, z=1771.17] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313222, l='ServerLevel[world]', x=1102.43, y=89.59, z=1772.06] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313223, l='ServerLevel[world]', x=1139.64, y=79.11, z=1752.09] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313224, l='ServerLevel[world]', x=1140.66, y=79.21, z=1753.07] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313225, l='ServerLevel[world]', x=1132.81, y=79.44, z=1752.05] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313226, l='ServerLevel[world]', x=1122.69, y=100.71, z=1646.07] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313227, l='ServerLevel[world]', x=1134.60, y=38.21, z=1761.80] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313228, l='ServerLevel[world]', x=1149.54, y=88.16, z=1719.14] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313229, l='ServerLevel[world]', x=1173.52, y=117.02, z=1599.45] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313230, l='ServerLevel[world]', x=1170.60, y=117.04, z=1596.23] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313231, l='ServerLevel[world]', x=1172.62, y=117.09, z=1601.49] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313232, l='ServerLevel[world]', x=1196.57, y=118.92, z=1617.52] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313233, l='ServerLevel[world]', x=1196.65, y=118.89, z=1618.51] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313234, l='ServerLevel[world]', x=1190.58, y=118.98, z=1618.50] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: Named entity class_1634['Pixie'/313235, l='ServerLevel[world]', x=1190.57, y=118.89, z=1617.55] died: Pixie was killed
+[00:53:51] [Server thread/INFO]: [Pikel_03: Killed 71 entities]
+[00:53:52] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[00:53:57] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1309.500000, 19.500000, -745.500000]
+[00:53:57] [Server thread/INFO]: ziKoc[/127.59.215.201:47397] logged in with entity id 314054 at (1114.3615752687538, 55.76636799395752, 1677.4716238081767)
+[00:53:57] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
+[00:53:57] [Server thread/INFO]: Loading config from file...
+[00:53:57] [Server thread/INFO]: ziKoc joined the game
+[00:53:57] [Server thread/INFO]: Player ziKoc just logged in with id 1aeaa7cc-6376-3256-be3e-ab68b32c3bc6
+[00:53:57] [ForkJoinPool-5-worker-6/INFO]: Loading local skin for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[00:53:57] [ForkJoinPool-5-worker-6/INFO]: Loading local cape for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[00:53:58] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:53:58] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:53:58] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:53:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:53:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:53:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:53:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:53:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:53:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:53:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:53:58] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/prueba/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:53:58] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[00:54:00] [Server thread/WARN]: Pikel_03 moved too quickly! 1412.885752509891,30.51102912385573,746.1892348369253
+[00:54:03] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 1114.500000, 52.500000, 1678.500000]
+[00:55:13] [Server thread/INFO]: ziKoc lost connection: Disconnected
+[00:55:13] [Server thread/INFO]: ziKoc left the game
+[00:55:13] [Server thread/INFO]: Removing session data for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[00:55:27] [Server thread/INFO]: ziKoc[/127.59.215.201:46789] logged in with entity id 381062 at (1115.0821694160134, 55.166109260938214, 1678.300000011921)
+[00:55:27] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
+[00:55:27] [Server thread/INFO]: Loading config from file...
+[00:55:27] [Server thread/INFO]: ziKoc joined the game
+[00:55:27] [Server thread/INFO]: Player ziKoc just logged in with id 1aeaa7cc-6376-3256-be3e-ab68b32c3bc6
+[00:55:27] [ForkJoinPool-5-worker-7/INFO]: Loading local skin for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[00:55:27] [ForkJoinPool-5-worker-7/INFO]: Loading local cape for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[00:55:27] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[00:55:28] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:55:28] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:55:28] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:55:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:55:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:55:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:55:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:55:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:55:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:55:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:55:28] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/prueba/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:55:31] [Server thread/INFO]: [Not Secure] <ziKoc> a
+[00:55:40] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[00:56:08] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[00:56:16] [Server thread/INFO]: [Not Secure] <ziKoc> baaaaaaaaaaaaaaaaaaaaaaaaaa
+[00:56:28] [Server thread/INFO]: ziKoc lost connection: Timed out
+[00:56:28] [Server thread/INFO]: ziKoc left the game
+[00:56:28] [Server thread/INFO]: Removing session data for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[00:57:03] [Server thread/INFO]: ziKoc[/127.59.215.201:59653] logged in with entity id 454843 at (1119.6954686563322, 30.0, 1687.0130232043596)
+[00:57:03] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
+[00:57:03] [Server thread/INFO]: Loading config from file...
+[00:57:03] [Server thread/INFO]: ziKoc joined the game
+[00:57:03] [Server thread/INFO]: Player ziKoc just logged in with id 1aeaa7cc-6376-3256-be3e-ab68b32c3bc6
+[00:57:03] [ForkJoinPool-5-worker-8/INFO]: Loading local skin for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[00:57:03] [ForkJoinPool-5-worker-8/INFO]: Loading local cape for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[00:57:03] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[00:57:04] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:57:04] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:57:04] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:57:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:57:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:57:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:57:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:57:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:57:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:57:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:57:04] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/prueba/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:57:51] [Server thread/INFO]: ziKoc lost connection: Timed out
+[00:57:51] [Server thread/INFO]: ziKoc left the game
+[00:57:51] [Server thread/INFO]: Removing session data for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[00:58:06] [Server thread/INFO]: ziKoc[/127.59.215.201:51149] logged in with entity id 502017 at (1068.699999988079, 61.0, 1654.99727635135)
+[00:58:06] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
+[00:58:06] [Server thread/INFO]: Loading config from file...
+[00:58:06] [Server thread/INFO]: ziKoc joined the game
+[00:58:06] [Server thread/INFO]: Player ziKoc just logged in with id 1aeaa7cc-6376-3256-be3e-ab68b32c3bc6
+[00:58:06] [ForkJoinPool-5-worker-9/INFO]: Loading local skin for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[00:58:06] [ForkJoinPool-5-worker-9/INFO]: Loading local cape for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[00:58:06] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[00:58:07] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:58:07] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:58:07] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:58:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:58:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:58:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:58:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:58:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:58:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:58:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:58:07] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/prueba/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:58:24] [Server thread/INFO]: Locating element #stellarity:return_gateways (stellarity:return_gateways/snowy_flying) took 63 ms
+[00:58:29] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 1200.500000, 61.000000, 560.500000]
+[00:58:32] [Server thread/WARN]: Pikel_03 moved too quickly! 0.0,-10.80652611000901,0.0
+[00:58:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3336ms or 66 ticks behind
+[00:58:38] [Server thread/INFO]: Pikel_03 fell out of the world
+[00:58:43] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[00:58:44] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[00:58:47] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1309.500000, 19.500000, -745.500000]
+[00:59:09] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[00:59:25] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[00:59:43] [Server thread/INFO]: Locating element minecraft:ancient_city took 16 ms
+[00:59:46] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1343.500000, 111.000000, 2320.500000]
+[00:59:48] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[01:00:03] [Server thread/INFO]: Locating element minecraft:ancient_city took 0 ms
+[01:00:07] [Server thread/INFO]: ziKoc has reached the goal [A Metropolis of Restless Souls]
+[01:00:20] [Server thread/INFO]: [ziKoc: Applied effect Night Vision to 2 targets]
+[01:00:30] [Server thread/INFO]: ziKoc has made the advancement [Sneak 100]
+[01:00:54] [Server thread/INFO]: ziKoc has reached the goal [Below the Bedrock]
+[01:01:06] [Server thread/INFO]: [ziKoc: Removed every effect from ziKoc]
+[01:01:36] [Server thread/INFO]: [ziKoc: Applied effect Night Vision to 2 targets]
+[01:01:45] [Server thread/WARN]: Pikel_03 moved too quickly! 9.919086150411886,-1.8528472819588018,-0.40435388593141397
+[01:02:33] [Server thread/INFO]: [Pikel_03: Teleported ziKoc to Pikel_03]
+[01:02:39] [Server thread/INFO]: [ziKoc: Applied effect Strength to 2 targets]
+[01:02:59] [Server thread/INFO]: Locating element deeperdarker:ancient_temple took 1 ms
+[01:02:59] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[01:03:01] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1071.500000, 86.000000, 1456.500000]
+[01:03:03] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[01:03:03] [Server thread/INFO]: ziKoc has completed the challenge [Echolocation]
+[01:03:19] [Server thread/INFO]: ziKoc has reached the goal [Abyssal Descent]
+[01:03:44] [Server thread/INFO]: DinokoMC[/127.67.254.107:32779] logged in with entity id 529972 at (12.080351307242259, 177.89626052220507, 346.75385441457644)
+[01:03:44] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[01:03:44] [Server thread/INFO]: Loading config from file...
+[01:03:44] [Server thread/INFO]: DinokoMC joined the game
+[01:03:44] [Server thread/INFO]: Player DinokoMC just logged in with id f0c00d82-0d58-3b89-af0b-9c6838e550a1
+[01:03:44] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[01:03:44] [ForkJoinPool-5-worker-10/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[01:03:44] [ForkJoinPool-5-worker-10/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[01:03:45] [ForkJoinPool-5-worker-10/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[01:04:05] [Server thread/INFO]: ziKoc has completed the challenge [Phantom Thief]
+[01:04:08] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:04:08] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:04:08] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:04:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:04:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:04:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:04:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:04:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:04:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:04:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:04:08] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/prueba/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:04:21] [Server thread/INFO]: ziKoc has made the advancement [Remote Storage]
+[01:04:47] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[01:04:59] [Server thread/INFO]: Pikel_03 has completed the challenge [Cover Me with Sculk]
+[01:05:46] [Server thread/INFO]: [Pikel_03: Applied effect Night Vision to DinokoMC]
+[01:06:38] [Server thread/INFO]: [DinokoMC: Applied effect Strength to DinokoMC]
+[01:07:04] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 53.500000, 64.500000, 160.500000]
+[01:07:07] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[01:07:09] [Server thread/INFO]: Pikel_03 was killed
+[01:07:09] [Server thread/INFO]: ziKoc was killed
+[01:07:09] [Server thread/INFO]: DinokoMC was killed
+[01:07:09] [Server thread/INFO]: [Pikel_03: Killed 289 entities]
+[01:07:11] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[01:07:12] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[01:07:12] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[01:07:13] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[01:07:14] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 53.500000, 64.500000, 160.500000]
+[01:07:21] [Server thread/INFO]: [ziKoc: Teleported ziKoc to 55.500000, 64.500000, 162.500000]
+[01:07:31] [Server thread/INFO]: [ziKoc: Applied effect Strength to 3 targets]
+[01:07:32] [Server thread/INFO]: DinokoMC has completed the challenge [Cover Me with Sculk]
+[01:07:44] [Server thread/INFO]: [DinokoMC: Applied effect Night Vision to DinokoMC]
+[01:08:15] [Server thread/INFO]: DinokoMC has made the advancement [I was here, i lived, i..]
+[01:08:26] [Server thread/INFO]: DinokoMC has made the advancement [It Bites]
+[01:08:29] [Server thread/INFO]: DinokoMC has made the advancement [World of illusion]
+[01:08:40] [Server thread/INFO]: DinokoMC was killed
+[01:08:40] [Server thread/INFO]: [DinokoMC: Killed DinokoMC]
+[01:08:42] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[01:08:52] [Server thread/INFO]: [ziKoc: Set own game mode to Survival Mode]
+[01:08:57] [Server thread/INFO]: [DinokoMC: Set own game mode to Survival Mode]
+[01:09:01] [Server thread/INFO]: DinokoMC was slain by Pikel_03
+[01:09:02] [Server thread/INFO]: [ziKoc: Teleported ziKoc to 69.500000, 100.000000, 156.500000]
+[01:09:03] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[01:09:04] [Server thread/INFO]: ziKoc fell from a high place
+[01:09:05] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[01:09:08] [Server thread/INFO]: [ziKoc: Teleported ziKoc to 69.500000, 100.000000, 156.500000]
+[01:09:10] [Server thread/INFO]: [ziKoc: Set own game mode to Creative Mode]
+[01:09:34] [Server thread/INFO]: DinokoMC was slain by Pikel_03
+[01:09:42] [Server thread/INFO]: [ziKoc: Set own game mode to Survival Mode]
+[01:09:52] [Server thread/INFO]: ziKoc was slain by Blaze
+[01:09:59] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[01:10:04] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[01:10:07] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[01:10:15] [Server thread/INFO]: Pikel_03 has made the advancement [Drop it like it's hot]
+[01:10:22] [Server thread/INFO]: [DinokoMC: Applied effect Strength to DinokoMC]
+[01:10:26] [Server thread/INFO]: DinokoMC was slain by Pikel_03
+[01:10:27] [Server thread/INFO]: [ziKoc: Applied effect Strength to ziKoc]
+[01:10:28] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[01:10:30] [Server thread/INFO]: [DinokoMC: Applied effect Strength to DinokoMC]
+[01:10:32] [Server thread/INFO]: ziKoc was slain by Pikel_03
+[01:10:33] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[01:10:34] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[01:10:41] [Server thread/INFO]: [ziKoc: Set Pikel_03's game mode to Survival Mode]
+[01:10:43] [Server thread/INFO]: Pikel_03 was slain by DinokoMC
+[01:10:44] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[01:10:55] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 53.500000, 64.500000, 160.500000]
+[01:10:57] [Server thread/INFO]: [ziKoc: Applied effect Strength to ziKoc]
+[01:10:59] [Server thread/INFO]: ziKoc has made the advancement [World of illusion]
+[01:11:01] [Server thread/INFO]: ziKoc was shot by Illusioner
+[01:11:02] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[01:11:06] [Server thread/INFO]: [ziKoc: Applied effect Strength to ziKoc]
+[01:11:07] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[01:11:12] [Server thread/INFO]: Pikel_03 was slain by ziKoc
+[01:11:13] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[01:11:20] [Server thread/INFO]: [Pikel_03: Removed every effect from ziKoc]
+[01:11:23] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
+[01:11:23] [Server thread/INFO]: DinokoMC was shot by Illusioner
+[01:11:25] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[01:11:29] [Server thread/INFO]: ziKoc was shot by Illusioner
+[01:11:30] [Server thread/INFO]: Pikel_03 was doomed to fall by Illusioner
+[01:11:30] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[01:11:32] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[01:11:34] [Server thread/INFO]: DinokoMC was killed whilst fighting Illusioner
+[01:11:34] [Server thread/INFO]: ziKoc was killed
+[01:11:34] [Server thread/INFO]: Pikel_03 was killed
+[01:11:34] [Server thread/INFO]: [ziKoc: Killed 3 entities]
+[01:11:35] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[01:11:36] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[01:11:37] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[01:11:40] [Server thread/INFO]: DinokoMC was killed whilst fighting Illusioner
+[01:11:40] [Server thread/INFO]: ziKoc was killed
+[01:11:40] [Server thread/INFO]: Pikel_03 was killed
+[01:11:40] [Server thread/INFO]: [ziKoc: Killed 688 entities]
+[01:11:41] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[01:11:41] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[01:11:42] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[01:11:45] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
+[01:11:47] [Server thread/INFO]: DinokoMC was killed
+[01:11:47] [Server thread/INFO]: ziKoc was killed
+[01:11:47] [Server thread/INFO]: Pikel_03 was killed
+[01:11:47] [Server thread/INFO]: [Pikel_03: Killed 349 entities]
+[01:11:48] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[01:11:49] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[01:11:50] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[01:11:52] [Server thread/INFO]: DinokoMC was killed
+[01:11:52] [Server thread/INFO]: Pikel_03 was killed
+[01:11:52] [Server thread/INFO]: ziKoc was killed
+[01:11:52] [Server thread/INFO]: [ziKoc: Killed 418 entities]
+[01:11:53] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[01:11:54] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[01:11:55] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[01:11:58] [Server thread/INFO]: DinokoMC was killed
+[01:11:58] [Server thread/INFO]: Pikel_03 was killed
+[01:11:58] [Server thread/INFO]: ziKoc was killed
+[01:11:58] [Server thread/INFO]: [ziKoc: Killed 403 entities]
+[01:12:00] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[01:12:00] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[01:12:01] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[01:12:03] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
+[01:12:07] [Server thread/INFO]: [Pikel_03: Kicked ziKoc: Kicked by an operator]
+[01:12:07] [Server thread/INFO]: ziKoc lost connection: Kicked by an operator
+[01:12:07] [Server thread/INFO]: ziKoc left the game
+[01:12:07] [Server thread/INFO]: Removing session data for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[01:12:13] [Server thread/INFO]: ziKoc[/127.59.215.201:59799] logged in with entity id 537223 at (47.02319106436745, 64.0, 156.85539366134986)
+[01:12:13] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
+[01:12:13] [Server thread/INFO]: Loading config from file...
+[01:12:13] [Server thread/INFO]: ziKoc joined the game
+[01:12:13] [Server thread/INFO]: Player ziKoc just logged in with id 1aeaa7cc-6376-3256-be3e-ab68b32c3bc6
+[01:12:13] [ForkJoinPool-5-worker-11/INFO]: Loading local skin for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[01:12:13] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[01:12:13] [ForkJoinPool-5-worker-11/INFO]: Loading local cape for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[01:12:13] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:12:13] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:12:13] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:12:13] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:12:13] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:12:13] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:12:13] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:12:13] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:12:13] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:12:13] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:12:13] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/prueba/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:12:17] [Server thread/INFO]: [Pikel_03: Banned ziKoc: Banned by an operator.]
+[01:12:17] [Server thread/INFO]: ziKoc lost connection: You are banned from this server
+[01:12:17] [Server thread/INFO]: ziKoc left the game
+[01:12:17] [Server thread/INFO]: Removing session data for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[01:12:22] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 53.500000, 64.500000, 160.500000]
+[01:12:24] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7e1aee61[id=1aeaa7cc-6376-3256-be3e-ab68b32c3bc6,name=ziKoc,properties={},legacy=false] (/127.59.215.201:39371): You are banned from this server.
+Reason: Banned by an operator.
+[01:12:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@7e1aee61[id=1aeaa7cc-6376-3256-be3e-ab68b32c3bc6,name=ziKoc,properties={},legacy=false] (/127.59.215.201:39371) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[01:12:24] [Server thread/WARN]: handleDisconnection() called twice
+[01:12:32] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@367d544d[id=1aeaa7cc-6376-3256-be3e-ab68b32c3bc6,name=ziKoc,properties={},legacy=false] (/127.59.215.201:51131): You are banned from this server.
+Reason: Banned by an operator.
+[01:12:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@367d544d[id=1aeaa7cc-6376-3256-be3e-ab68b32c3bc6,name=ziKoc,properties={},legacy=false] (/127.59.215.201:51131) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[01:12:32] [Server thread/WARN]: handleDisconnection() called twice
+[01:12:33] [Server thread/INFO]: [Pikel_03: Unbanned ziKoc]
+[01:12:37] [Server thread/INFO]: ziKoc[/127.59.215.201:33781] logged in with entity id 537242 at (50.797938378422785, 64.5625, 155.65376008729368)
+[01:12:37] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
+[01:12:37] [Server thread/INFO]: Loading config from file...
+[01:12:37] [Server thread/INFO]: ziKoc joined the game
+[01:12:37] [Server thread/INFO]: Player ziKoc just logged in with id 1aeaa7cc-6376-3256-be3e-ab68b32c3bc6
+[01:12:37] [ForkJoinPool-5-worker-11/INFO]: Loading local skin for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[01:12:37] [ForkJoinPool-5-worker-11/INFO]: Loading local cape for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[01:12:37] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[01:12:37] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:12:37] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:12:37] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:12:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:12:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:12:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:12:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:12:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:12:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:12:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:12:37] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/prueba/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:12:39] [Server thread/INFO]: [DinokoMC: Applied effect Strength to DinokoMC]
+[01:12:49] [Server thread/INFO]: [ziKoc: Set own game mode to Creative Mode]
+[01:12:57] [Server thread/INFO]: [Pikel_03: Applied effect Speed to Pikel_03]
+[01:13:03] [Server thread/INFO]: Pikel_03 was killed
+[01:13:03] [Server thread/INFO]: [DinokoMC: Killed Pikel_03]
+[01:13:04] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[01:13:07] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 53.500000, 64.500000, 160.500000]
+[01:13:10] [Server thread/INFO]: [Pikel_03: Applied effect Speed to Pikel_03]
+[01:13:11] [Server thread/INFO]: ziKoc was killed
+[01:13:11] [Server thread/INFO]: [DinokoMC: Killed ziKoc]
+[01:13:12] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[01:13:16] [Server thread/INFO]: ziKoc was killed
+[01:13:16] [Server thread/INFO]: [DinokoMC: Killed ziKoc]
+[01:13:17] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[01:13:18] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 53.500000, 64.500000, 160.500000]
+[01:13:19] [Server thread/INFO]: ziKoc was killed
+[01:13:19] [Server thread/INFO]: [DinokoMC: Killed ziKoc]
+[01:13:20] [Server thread/INFO]: Pikel_03 was killed
+[01:13:20] [Server thread/INFO]: [DinokoMC: Killed Pikel_03]
+[01:13:21] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[01:13:21] [Server thread/INFO]: Pikel_03 was killed
+[01:13:21] [Server thread/INFO]: [DinokoMC: Killed Pikel_03]
+[01:13:22] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[01:13:23] [Server thread/INFO]: ziKoc was killed
+[01:13:23] [Server thread/INFO]: [DinokoMC: Killed ziKoc]
+[01:13:23] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[01:13:25] [Server thread/INFO]: [ziKoc: Banned DinokoMC: Banned by an operator.]
+[01:13:25] [Server thread/INFO]: DinokoMC lost connection: You are banned from this server
+[01:13:25] [Server thread/INFO]: DinokoMC left the game
+[01:13:28] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[01:13:33] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 53.500000, 64.500000, 160.500000]
+[01:13:37] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3f76726f[id=f0c00d82-0d58-3b89-af0b-9c6838e550a1,name=DinokoMC,properties={},legacy=false] (/127.67.254.107:50189): You are banned from this server.
+Reason: Banned by an operator.
+[01:13:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@3f76726f[id=f0c00d82-0d58-3b89-af0b-9c6838e550a1,name=DinokoMC,properties={},legacy=false] (/127.67.254.107:50189) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[01:13:37] [Server thread/WARN]: handleDisconnection() called twice
+[01:13:42] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[01:13:51] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@64a16d2[id=f0c00d82-0d58-3b89-af0b-9c6838e550a1,name=DinokoMC,properties={},legacy=false] (/127.67.254.107:44549): You are banned from this server.
+Reason: Banned by an operator.
+[01:13:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@64a16d2[id=f0c00d82-0d58-3b89-af0b-9c6838e550a1,name=DinokoMC,properties={},legacy=false] (/127.67.254.107:44549) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[01:13:51] [Server thread/WARN]: handleDisconnection() called twice
+[01:14:03] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@40b864a1[id=f0c00d82-0d58-3b89-af0b-9c6838e550a1,name=DinokoMC,properties={},legacy=false] (/127.67.254.107:40765): You are banned from this server.
+Reason: Banned by an operator.
+[01:14:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@40b864a1[id=f0c00d82-0d58-3b89-af0b-9c6838e550a1,name=DinokoMC,properties={},legacy=false] (/127.67.254.107:40765) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[01:14:03] [Server thread/WARN]: handleDisconnection() called twice
+[01:14:08] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@233c90fc[id=f0c00d82-0d58-3b89-af0b-9c6838e550a1,name=DinokoMC,properties={},legacy=false] (/127.67.254.107:36005): You are banned from this server.
+Reason: Banned by an operator.
+[01:14:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@233c90fc[id=f0c00d82-0d58-3b89-af0b-9c6838e550a1,name=DinokoMC,properties={},legacy=false] (/127.67.254.107:36005) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[01:14:08] [Server thread/WARN]: handleDisconnection() called twice
+[01:14:12] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1c6e7acb[id=f0c00d82-0d58-3b89-af0b-9c6838e550a1,name=DinokoMC,properties={},legacy=false] (/127.67.254.107:52735): You are banned from this server.
+Reason: Banned by an operator.
+[01:14:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@1c6e7acb[id=f0c00d82-0d58-3b89-af0b-9c6838e550a1,name=DinokoMC,properties={},legacy=false] (/127.67.254.107:52735) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[01:14:12] [Server thread/WARN]: handleDisconnection() called twice
+[01:14:16] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4531371f[id=f0c00d82-0d58-3b89-af0b-9c6838e550a1,name=DinokoMC,properties={},legacy=false] (/127.67.254.107:46053): You are banned from this server.
+Reason: Banned by an operator.
+[01:14:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@4531371f[id=f0c00d82-0d58-3b89-af0b-9c6838e550a1,name=DinokoMC,properties={},legacy=false] (/127.67.254.107:46053) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[01:14:16] [Server thread/WARN]: handleDisconnection() called twice
+[01:14:19] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@596e5e8b[id=f0c00d82-0d58-3b89-af0b-9c6838e550a1,name=DinokoMC,properties={},legacy=false] (/127.67.254.107:34077): You are banned from this server.
+Reason: Banned by an operator.
+[01:14:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@596e5e8b[id=f0c00d82-0d58-3b89-af0b-9c6838e550a1,name=DinokoMC,properties={},legacy=false] (/127.67.254.107:34077) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[01:14:19] [Server thread/WARN]: handleDisconnection() called twice
+[01:14:20] [Server thread/INFO]: [Pikel_03: Unbanned DinokoMC]
+[01:14:22] [Server thread/INFO]: DinokoMC[/127.67.254.107:53617] logged in with entity id 538671 at (57.324800983924014, 64.0, 150.95651972900225)
+[01:14:22] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[01:14:22] [Server thread/INFO]: Loading config from file...
+[01:14:22] [Server thread/INFO]: DinokoMC joined the game
+[01:14:22] [Server thread/INFO]: Player DinokoMC just logged in with id f0c00d82-0d58-3b89-af0b-9c6838e550a1
+[01:14:22] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[01:14:23] [ForkJoinPool-5-worker-12/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[01:14:23] [ForkJoinPool-5-worker-12/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[01:14:23] [ForkJoinPool-5-worker-12/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[01:14:23] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:14:23] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:14:23] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:14:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:14:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:14:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:14:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:14:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:14:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:14:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:14:23] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/prueba/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:14:37] [Server thread/INFO]: [Pikel_03: Successfully filled 1 block(s)]
+[01:14:42] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[01:14:46] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
+[01:15:05] [Server thread/INFO]: [Pikel_03: Successfully filled 1 block(s)]
+[01:16:06] [Server thread/INFO]: [Pikel_03: Successfully filled 21960 block(s)]
+[01:16:09] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[01:16:13] [Server thread/INFO]: [Pikel_03: Teleported DinokoMC to Pikel_03]
+[01:16:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2550ms or 51 ticks behind
+[01:16:18] [Server thread/WARN]: DinokoMC moved too quickly! 7.1957539063524365,7.467479054452923,-1.0672312576144236
+[01:16:20] [Server thread/WARN]: Pikel_03 moved too quickly! -4.782700842060045,0.0,-9.03472152738857
+[01:16:23] [Server thread/WARN]: DinokoMC moved too quickly! 2.610453336840223,0.0,-10.149135714066517
+[01:16:25] [Server thread/WARN]: DinokoMC moved too quickly! 7.715635621503587,0.0,-6.41486265213706
+[01:16:25] [Server thread/WARN]: Pikel_03 moved too quickly! 0.6894662043610538,0.0,10.026306542779707
+[01:16:28] [Server thread/WARN]: Pikel_03 moved too quickly! 10.102881242692455,0.0,-0.2768950717274947
+[01:16:33] [Server thread/WARN]: DinokoMC moved too quickly! 3.4866757634043353,0.0,9.41723337988077
+[01:16:35] [Server thread/WARN]: ziKoc moved too quickly! 9.649630024517926,0.0,3.089369041498003
+[01:16:35] [Server thread/WARN]: DinokoMC moved too quickly! -6.111351740904759,0.0,8.271034936729961
+[01:16:38] [Server thread/WARN]: DinokoMC moved too quickly! -7.598004055501178,4.6879409847050795,-4.644212298878983
+[01:16:38] [Server thread/WARN]: Pikel_03 moved too quickly! -9.296389163516444,0.0,-4.678094876808075
+[01:16:40] [Server thread/WARN]: Pikel_03 moved too quickly! -9.16805194727371,-2.5824845426826926,-4.296528227268539
+[01:16:40] [Server thread/WARN]: DinokoMC moved too quickly! 7.775275017373211,0.0,6.41977093778587
+[01:16:46] [Server thread/WARN]: Pikel_03 moved too quickly! 2.7270801882706692,0.0,9.777271924848662
+[01:16:55] [Server thread/WARN]: DinokoMC moved too quickly! -4.855643121176961,0.0,-9.395085745920767
+[01:16:57] [Server thread/WARN]: DinokoMC moved too quickly! 4.6917571852060505,0.0,-9.51384387377874
+[01:17:00] [Server thread/INFO]: ziKoc lost connection: Timed out
+[01:17:00] [Server thread/INFO]: ziKoc left the game
+[01:17:00] [Server thread/INFO]: Removing session data for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[01:17:04] [Server thread/WARN]: Pikel_03 moved too quickly! 7.786170008857297,0.0,6.8996441500099195
+[01:17:04] [Server thread/WARN]: DinokoMC moved too quickly! -4.169602799259671,0.0,-9.4580185490276
+[01:17:06] [Server thread/WARN]: DinokoMC moved too quickly! -3.2305371366890014,0.0,-9.628383103602403
+[01:17:08] [Server thread/WARN]: Pikel_03 moved too quickly! -2.0895781680522845,0.0,-10.061524267005723
+[01:17:08] [Server thread/WARN]: DinokoMC moved too quickly! -1.7375842389434268,0.0,-9.967373695223273
+[01:17:09] [Server thread/WARN]: DinokoMC moved too quickly! -9.122202176865898,0.0,5.216295008762472
+[01:17:09] [Server thread/WARN]: Pikel_03 moved too quickly! 0.8054582572512174,0.0,-10.630416839815894
+[01:17:10] [Server thread/WARN]: Pikel_03 moved too quickly! -8.08539638204661,0.0,-6.864393243994527
+[01:17:11] [Server thread/WARN]: Pikel_03 moved too quickly! -8.08539638204661,0.0,-6.864393243994527
+[01:17:11] [Server thread/WARN]: DinokoMC moved too quickly! 9.014281875450713,0.0,-5.154583580019789
+[01:17:15] [Server thread/INFO]: ziKoc[/127.59.215.201:42561] logged in with entity id 564487 at (33.35359142952894, 136.35690832804627, 382.74407194849033)
+[01:17:15] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
+[01:17:15] [Server thread/INFO]: Loading config from file...
+[01:17:15] [Server thread/INFO]: ziKoc joined the game
+[01:17:15] [Server thread/INFO]: Player ziKoc just logged in with id 1aeaa7cc-6376-3256-be3e-ab68b32c3bc6
+[01:17:15] [ForkJoinPool-5-worker-13/INFO]: Loading local skin for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[01:17:15] [ForkJoinPool-5-worker-13/INFO]: Loading local cape for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[01:17:15] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[01:17:16] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:17:16] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:17:16] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:17:16] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:17:16] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:17:16] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:17:16] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:17:16] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:17:16] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:17:16] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:17:16] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/prueba/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:17:18] [Server Watchdog/ERROR]: A single server tick took 60.00 seconds (should be max 0.05)
+[01:17:18] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
+[01:17:18] [Server Watchdog/ERROR]: This crash report has been saved to: /workspaces/prueba/servidor_minecraft/./crash-reports/crash-2025-06-10_01.17.18-server.txt

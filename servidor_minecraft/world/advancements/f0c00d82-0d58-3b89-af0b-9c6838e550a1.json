@@ -6325,5 +6325,36 @@
     },
     "done": true
   },
+  "deeperdarker:main/warden_armor": {
+    "criteria": {
+      "warden_armor": "2025-06-10 01:07:32 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2025-06-10 01:08:29 +0000",
+      "killed_iceologer": "2025-06-10 01:08:15 +0000"
+    },
+    "done": false
+  },
+  "friendsandfoes:adventure/kill_iceologer": {
+    "criteria": {
+      "killed_iceologer": "2025-06-10 01:08:15 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/it_bites": {
+    "criteria": {
+      "killed_mauler": "2025-06-10 01:08:26 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-06-10 01:08:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
